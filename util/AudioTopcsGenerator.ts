@@ -1,1 +1,3 @@
-const gen = ""
+const gen = () => {
+  const a = 0
+}
